@@ -1,0 +1,14 @@
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\bin\Debug\Igraionica.exe.config
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\bin\Debug\Igraionica.exe
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\bin\Debug\Igraionica.pdb
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmIgraionica.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmPc.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmSony.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmSonyNovi.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.Properties.Resources.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.csproj.GenerateResource.Cache
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.exe
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.pdb
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmPcNovi.resources
+C:\Users\Dusan\Desktop\alati prijekat\Igraionica\Igraionica\obj\Debug\Igraionica.frmLogIn.resources
